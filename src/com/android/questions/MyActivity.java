@@ -42,7 +42,7 @@ public class MyActivity extends Activity {
 
             questionNumber--;
             shuffleAnswers();
-            System.out.println("ad");
+            System.out.println("a d");
             generateNextQuestionWithAnswers();
         } else {
             //TODO Go to last View
